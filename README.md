@@ -1,4 +1,4 @@
-# New Project
+# MADGE òmó
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
